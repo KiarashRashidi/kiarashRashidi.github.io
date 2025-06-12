@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Personal website"
 author_profile: true
 redirect_from: 
   - /about/
@@ -53,6 +53,7 @@ This sophisticated tester exhibits the capability to generate packets equipped w
 Internship Supervisor: As an internship supervisor, I provided real-world industrial problems for interns to solve using practical tools.
 *Intern*
 Successfully designed and implemented a hardware solution on Xilinx FPGA to efficiently fill SDH frames with data, particularly aimed at mitigating transmission errors in a noisy environment.  
+
 ---
 
 ## Academic Projects
@@ -71,6 +72,7 @@ Implemented a Sobel filter on the DE2 evaluation board. Led the design and devel
 
 - **Li-Fi PHY Layer Implementation** – *Digital VLSI System Design* (Dr. Shabani)  
 Implemented the physical layer of a Li-Fi system using the DC-Reduced Hadamard Coded Modulation technique on MATLAB and HDL platforms. Synthesized and verified the design on both ASIC flow and FPGA platforms. Conducted initial simulations on MATLAB and subsequently carried out the ASIC flow on Virtuoso Layout Suite.
+
 ---
 
 ## Teaching Assistant Roles
