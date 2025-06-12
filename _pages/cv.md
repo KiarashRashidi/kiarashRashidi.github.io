@@ -1,64 +1,46 @@
 ---
-layout: archive
-title: "CV"
 permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
+title: "CV"
 ---
 
-{% include base_path %}
+# Kiarash Rashidi  
+**Master Student**
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Skills
+- **Coding**: Matlab, Python (Pandas, NumPy, etc.), C/C++
+- Critical thinking, Problem Solving, Time Management, Teamwork, Documentation
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Education
+**Sharif University of Technology**, B.Sc. in Electrical Engineering (2019–2024)  
+GPA: 18.17
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Experience
+**HPCA Lab, Sharif University** — *Research Assistant*  
+Spring 2023 – Fall 2024  
+- Researched new architectures for Resistive RAM accelerators  
+- Weekly presentation and summary of research papers  
+- HSPICE simulation for power efficiency
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+**Parman (Parto Tamase Novin)** — *Product Development Engineer*  
+Fall 2022 – Present  
+- Built a 10-Gig Ethernet tester prototype  
+- Supervised internships for over 20 students
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Academic Projects
+- **News Recommendation System** (Massive Data Analytics, Dr. Gholampoor): Used Apache Spark  
+- **MIPS Implementation** (Advanced Computer Architecture, Dr. Movahedin): Added cache to pipelined processor  
+- **FFT on GPU** (Parallel Computing, Dr. Hashemi): CUDA-based Cooley-Tukey FFT  
+- **Sobel Filter on FPGA** (Digital Systems, Dr. Shabani): DE2 board  
+- **Li-Fi PHY Layer** (Digital VLSI, Dr. Shabani): MATLAB + HDL, ASIC + FPGA synthesis
+
+## Research Interests
+- Statistical and Graph-Based Signal Processing  
+- Machine Learning for Multimedia and Communication  
+- Edge Intelligence and Privacy-Preserving Learning
+
+## Languages
+- **English** (TOEFL 101 — R25, L30, S21, W25)  
+- **Persian** (Native)
+
+## Teaching Assistant Roles
+- VLSI, Logic Design, OOP, MATLAB Programming (Various instructors)
